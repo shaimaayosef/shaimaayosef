@@ -3,8 +3,6 @@
 
 ---
 
-**Mustafa Kamel Street, Alexandria, Egypt 21533**  
-**(002) 01212012165**  
 **shimaa.sayed8888@gmail.com**  
 **[LinkedIn](https://www.linkedin.com/in/shaimaa-sayed88)**  
 **[GitHub](https://github.com/shaimaayosef)**  
