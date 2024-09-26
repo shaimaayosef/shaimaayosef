@@ -1,83 +1,80 @@
-# Shaimaa Sayed
-### Junior Web Developer
+# 💻 Welcome to My GitHub Profile!
+
+Hello, I’m a graduating student of the **ALX Software Engineering Program**, where I began my exciting journey into software engineering. I’m passionate about **building innovative web applications** and continuously learning new technologies that inspire creativity in the digital world.
+
+Throughout my journey, I’ve honed my skills in both **frontend** and **backend development**, playing significant roles in several full-stack projects. I aim to keep growing as a **Full-Stack Developer** and work on projects that make an impact.
 
 ---
 
-**shimaa.sayed8888@gmail.com**  
-**[LinkedIn](https://www.linkedin.com/in/shaimaa-sayed88)**  
-**[GitHub](https://github.com/shaimaayosef)**  
+## 🚀 Technologies and Tools
+
+- **Languages:** JavaScript, Python, PHP  
+- **Frameworks:** React, Laravel  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Docker  
+
+I’m particularly proficient in **JavaScript** and **React** for building interactive frontend experiences, and in **PHP** and **Laravel** for powerful backend development.
 
 ---
 
-Enthusiastic junior full-stack developer with a background in accounting and extensive experience in building web applications using modern technologies like JavaScript, React, Laravel, and PHP. Self-taught through online courses with hands-on projects, I bring adaptability, problem-solving, and resilience developed through various technical and soft-skills training programs.
+## 🏆 Key Projects
 
-## Technical Skills
+### Airbnb Clone  
+This project is a comprehensive **full-stack Airbnb clone** showcasing my ability to work with both front and backend development. It includes features such as user authentication, property listings, and booking functionality.  
+Technologies used: _React, Laravel, MySQL_
 
-- **FRONT-END:** HTML, CSS, JavaScript, React, Redux
-- **BACK-END:** PHP, Laravel, Node.js
-- **TOOLS & TECHNOLOGIES:** Git, GitHub, Jest, APIs, Asynchronous Applications, MVC
-- **DATABASES:** MySQL, SQL, MongoDB
-- **PROGRAMMING LANGUAGES:** JavaScript, Python, C, PHP
-- **SOFT SKILLS:** Adaptability, Problem-Solving, Communication, Teamwork
-
----
-
-## Software Development Courses
-
-### *Udacity*
-
-- **Web Development Challenger (May 2021):**  
-  HTML, CSS, WordPress
-- **Front End Web Development Professional (Aug 2021):**  
-  JavaScript, Git, Web APIs, Asynchronous Applications
-- **Advanced Front-End Web Development (Jan 2022):**  
-  React, Redux, Single-Page Applications
-
-### *Coursera*
-
-- **Programming with JavaScript (Nov 2022):**  
-  JavaScript, Objects & Arrays, Unit Testing with Jest
-
-### *Egyptian Council for Training & Development*
-
-- **Backend Development Basics (Feb 2024):**  
-  PHP, MySQL, MVC, Laravel Overview
-- **Backend Advanced Using Laravel (Jul 2024):**  
-  Building Web Apps, Laravel Framework, PHP
-
-### *Africa Leadership International*
-
-- **ALX Software Engineering Program (Jul 2024 – Aug 2024):**  
-  C Programming, Python, Databases, System Engineering, DevOps
+### Reading List App  
+A **React-based web app** that allows users to manage their reading lists. This app simulates a full-stack environment using _JSON Server_ as a backend, providing a seamless interface to trackbooks.  
+Technologies used: _React, JSON Server, Vite_
 
 ---
 
-## Projects
+## 📈 GitHub Stats
 
-- **Reading List App (React, Vite, JSON Server) – 2024**  
-  Built a reading list app allowing users to track their books. Implemented features like adding books, searching, and moving books between lists. Used React for front-end, Vite for project setup, and JSON Server to simulate the backend.
-
-- **Restaurant Website (Laravel) – 2024**  
-  Built a fully functional online restaurant website using Laravel. Integrated backend with MySQL for user data and order management.
-
-- **Airbnb Clone (ALX Software Engineering Program) – 2024**  
-  Created an Airbnb clone using Python and React, implementing modern JavaScript and advanced CSS. Worked on database management and backend functionalities.
-
-- **Weather Journal App (Udacity Project) – 2021**  
-  Built an asynchronous web app that fetches weather data using Web APIs. Implemented user input handling and dynamic UI updates with JavaScript.
-
-- **Book Tracking App (React & Redux) – 2021**  
-  Developed a book tracking app to manage and categorize books. Utilized Redux for state management and React Router for navigation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaimaayosef&show_icons=true&theme=radical" alt="Your GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaimaayosef&theme=radical" alt="Your GitHub Streak Stats">
+</p>
 
 ---
 
-## Education
+## 📫 How to Reach Me
 
-**Bachelor’s degree in accounting** – Alexandria University – 2011
+You can connect with me through the following platforms:
+- [Email](shimaa.sayed8888@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shaimaa-sayed88)
 
 ---
 
-## Certifications & Additional Training
+## 🌟 My Mission
 
-**McKinsey Forward Program (2024):**  
-Skills in Adaptability & Resilience, Problem-Solving, Communicating for Impact, and Relationships & Well-being
+My mission is to continuously develop my skills as a software engineer, and I’m driven by my passion for innovation. I believe in the power of code to solve real-world problems and create solutions that make a difference.
+
+I'm always excited to collaborate on open-source projects, learn from others, and contribute to meaningful work that drives the future of technology.
+
+---
+
+## 📚 Recent Courses and Certifications
+
+- **Udacity:** Front-End Web Development Professional (JavaScript, Web APIs)  
+- **Coursera:** Programming with JavaScript  
+- **Egyptian Council:** Back-End Development with PHP & Laravel  
+- **ALX Software Engineering Program:** Full Stack Web Development  
+
+My journey of learning never stops, and I’m constantly adding new tools and frameworks to my developer toolkit.
+
+---
+
+## ✨ Personal Note
+
+As someone who is passionate about **building impactful digital products**, I am always open to learning new things and pushing the boundaries of what’s possible. I look forward to contributing to meaningful projects that inspire and challenge me!
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shaimaayosef&theme=react-dark" alt="Your GitHub Activity Graph">
+</p>
