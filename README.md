@@ -78,3 +78,4 @@ As someone who is passionate about **building impactful digital products**, I am
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=shaimaayosef&theme=react-dark" alt="Your GitHub Activity Graph">
 </p>
+
