@@ -76,6 +76,8 @@ As someone who is passionate about **building impactful digital products**, I am
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shaimaayosef&theme=react-dark" alt="Your GitHub Activity Graph">
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaimaayosef&theme=react-dark" alt="shaimaayosef's GitHub Activity Graph">
+</p>0
+
+
 
