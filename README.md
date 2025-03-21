@@ -11,7 +11,7 @@ Throughout my journey, I’ve honed my skills in both **frontend** and **backend
 - **Languages:** JavaScript, Python, PHP  
 - **Frameworks:** React, Laravel  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, Docker  
+- **Tools:** Git, GitHub  
 
 I’m particularly proficient in **JavaScript** and **React** for building interactive frontend experiences, and in **PHP** and **Laravel** for powerful backend development.
 
